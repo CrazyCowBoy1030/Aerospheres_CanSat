@@ -1,4 +1,4 @@
-Private repository, only with link
+gdyby kod nie dzialal przetestujcie plik "reciver_example_code.py"
 
 based on https://github.com/mayeranalytics/pySX127x/tree/master
 
